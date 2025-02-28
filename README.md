@@ -1,4 +1,4 @@
-# FaceRec - Version 1
+# FaceRec - Version 0.1
 <p align="center">
   <img src="https://raw.githubusercontent.com/catab60/FaceRec/refs/heads/main/Assets/LogoBig.png">
 </p>
