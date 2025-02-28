@@ -1,7 +1,8 @@
-# Face Recognition Software - Version 1
+# FaceRec - Version 1
 <p align="center">
   <img src="https://raw.githubusercontent.com/catab60/FaceRec/refs/heads/main/Assets/LogoBig.png">
 </p>
+
 This is a **Face Recognition** software built entirely in Python, featuring a modern GUI, real-time face recognition capabilities, and a training panel that allows users to train their own models with custom datasets or webcam input. The software was developed in 3 non-stop days of focused effort, providing a great learning experience in machine learning, image processing, and GUI design.
 
 ## About the Project
@@ -9,6 +10,7 @@ This is a **Face Recognition** software built entirely in Python, featuring a mo
   <img src="https://github.com/catab60/FaceRec/blob/main/Assets/Preview.gif" width=400>
   <img src="https://raw.githubusercontent.com/catab60/FaceRec/refs/heads/main/Assets/Preview2.png" width=400>
 </p>
+
 This is **Version 1**, and it currently supports real-time face recognition with a training panel that enables users to train models for recognizing multiple people. The software can recognize and differentiate multiple individuals simultaneously and show their positions in real-time. 
 
 ### Features:
