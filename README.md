@@ -11,7 +11,7 @@ This is a **Face Recognition** software built entirely in Python, featuring a mo
   <img src="https://raw.githubusercontent.com/catab60/FaceRec/refs/heads/main/Assets/Preview2.png" width=400>
 </p>
 
-This is **Version 1**, and it currently supports real-time face recognition with a training panel that enables users to train models for recognizing multiple people. The software can recognize and differentiate multiple individuals simultaneously and show their positions in real-time. 
+This is **Version 0.1**, and it currently supports real-time face recognition with a training panel that enables users to train models for recognizing multiple people. The software can recognize and differentiate multiple individuals simultaneously and show their positions in real-time. 
 
 ### Features:
 - **Real-time Face Recognition**: Detect faces and output their positions in real-time.
